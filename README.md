@@ -1,28 +1,28 @@
 # Application for sharing experiences in motorcycle travel
 ____
 # ScreenShots
-## Registration
-![Снимок экрана 2022-06-22 в 13 33 12](https://user-images.githubusercontent.com/95250432/175009220-469c3102-38e1-4763-9409-886b83eda99a.png)
+
+<img width="200" alt="Снимок экрана 2023-04-13 в 15 47 25" src="https://user-images.githubusercontent.com/95250432/231763495-0244bbce-2689-44d4-82ef-ee8987b904a9.jpg">
 
 # Actual Features
 ____
-+ Login
-+ Registration
-+ Sending and receiving posts to the server
 + Location determination
 
 # App Arquitecture
 ____
-+ MVC
-+ UIKit 
-+ Firebase IOS SDK
-+ Firebase Realtime Database
-+ Firebase Authentication
++ SwiftUI
++ MapKit
++ CoreLocation
 + SafariServices
 + Progress Hub
 
 ## Application ScreenShots
-![Снимок экрана 2022-06-22 в 13 03 54](https://user-images.githubusercontent.com/95250432/175006644-d72fc21b-6a7e-41a5-97ce-454ea8dc977b.png)
-![Снимок экрана 2022-06-22 в 13 31 49](https://user-images.githubusercontent.com/95250432/175009828-9e29b7c9-422e-480c-8edf-5ad541cf579e.png)
-![Снимок экрана 2022-06-22 в 13 32 04](https://user-images.githubusercontent.com/95250432/175010019-4b9095e0-5e89-43da-83e0-3b01646e8352.png)
-![Снимок экрана 2022-06-22 в 13 32 28](https://user-images.githubusercontent.com/95250432/175010062-f34026c2-7009-4476-848d-4548fedc01f1.png))
+\
+<img width="200" alt="IMAGE 2023-04-13 15:47:28" src="https://user-images.githubusercontent.com/95250432/231764699-65aa0a6f-8ab0-4c24-8c1e-5fbbf59866ac.jpg"> 
+<img width="200" alt="IMAGE 2023-04-13 15:47:28" src="https://user-images.githubusercontent.com/95250432/231764693-9f5bba0d-1b63-4374-abd4-772c773ace0d.jpg"> 
+<img width="200" alt="IMAGE 2023-04-13 15:47:31" src="https://user-images.githubusercontent.com/95250432/231764706-b311af3b-a226-413d-9aad-68edecccab68.jpg">
+<img width="200" alt="IMAGE 2023-04-13 15:47:29" src="https://user-images.githubusercontent.com/95250432/231770409-12da4688-f2f3-4b96-8b45-f58b121556ae.jpg">
+<img width="200" alt="IMAGE 2023-04-13 15:47:34" src="https://user-images.githubusercontent.com/95250432/231764712-1716b14c-c4a6-4449-afd1-1b65d723c45e.jpg">
+<img width="200" alt="IMAGE 2023-04-13 15:47:33" src="https://user-images.githubusercontent.com/95250432/231764708-b2bac742-b021-4f16-8c84-228d468515fd.jpg">
+
+
